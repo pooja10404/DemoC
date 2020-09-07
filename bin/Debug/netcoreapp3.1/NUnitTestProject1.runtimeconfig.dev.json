@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Kabra\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Kabra\\.nuget\\packages"
+    ]
+  }
+}

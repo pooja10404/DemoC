@@ -1,0 +1,80 @@
+--------------------- TestCase1 --------------------------
+1 : The Future of Media: A New Framework for Valuing Content
+2 : Feeling Safe in the Home of the Future: A product life-cycle approach to improve the trustworthiness of smart home products and services
+3 : Rebounding from COVID-19: MENA perspectives on resilience in manufacturing and supply systems
+--------------------- -------- --------------------------
+--------------------- TestCase3 --------------------------
+For Year 2017
+Total number of reports are : 21
+Number of missing images are: 1
+Missing Images for: 
+1 : The Future of Humanitarian Response 2017
+Number of missing Link are: 0
+--------------------- -------- --------------------------
+--------------------- TestCase3 --------------------------
+For Year 2016
+Total number of reports are : 50
+Number of missing images are: 2
+Missing Images for: 
+1 : Disruptive innovation in financial services: A blueprint for digital
+2 : Social Innovation: A Guide to Achieving Corporate and Societal Value
+Number of missing Link are: 0
+--------------------- -------- --------------------------
+--------------------- TestCase3 --------------------------
+For Year 2015
+Total number of reports are : 54
+Number of missing images are: 9
+Missing Images for: 
+1 : Global Gender Gap Report 2015
+2 : Building Resilience in Nepal through Public-Private Partnerships
+3 : The Global Competitiveness Report 2015
+4 : Africa Strategic Infrastructure Initiative: A Principled Approach to Infrastructure Project Preparation Facilities
+5 : Global Information Technology Report 2015
+6 : Partnering for Cyber Resilience: Principles and Guidelines
+7 : Strategic Infrastructure: Mitigation of Political & Regulatory Risk in Infrastructure Projects
+8 : Enabling Trade: Increasing the Potential of Trade Reforms
+9 : Global Strategic Foresight Community
+Number of missing Link are: 0
+--------------------- -------- --------------------------
+--------------------- TestCase2 --------------------------
+Report Count for filer : ALL
+Total number of reports are : 54
+Report Count for filer : COVID ACTION PLATFORM
+Total number of reports are : 0
+Report Count for filer : SHAPING THE FUTURE OF ADVANCED MANUFACTURING AND PRODUCTION
+Total number of reports are : 0
+Report Count for filer : SHAPING THE FUTURE OF CITIES, INFRASTRUCTURE AND URBAN SERVICES
+Total number of reports are : 1
+Report Count for filer : SHAPING THE FUTURE OF CONSUMPTION
+Total number of reports are : 0
+Report Count for filer : SHAPING THE FUTURE OF CYBERSECURITY AND DIGITAL TRUST
+Total number of reports are : 0
+Report Count for filer : SHAPING THE FUTURE OF DIGITAL ECONOMY AND NEW VALUE CREATION
+Total number of reports are : 0
+Report Count for filer : SHAPING THE FUTURE OF ENERGY AND MATERIALS
+Total number of reports are : 0
+Report Count for filer : SHAPING THE FUTURE OF FINANCIAL AND MONETARY SYSTEMS
+Total number of reports are : 0
+Report Count for filer : SHAPING THE FUTURE OF GLOBAL PUBLIC GOODS
+Total number of reports are : 0
+Report Count for filer : SHAPING THE FUTURE OF HEALTH AND HEALTHCARE
+Total number of reports are : 1
+Report Count for filer : SHAPING THE FUTURE OF INVESTING
+Total number of reports are : 2
+Report Count for filer : SHAPING THE FUTURE OF MEDIA, ENTERTAINMENT AND CULTURE
+Total number of reports are : 1
+Report Count for filer : SHAPING THE FUTURE OF MOBILITY
+Total number of reports are : 1
+Report Count for filer : SHAPING THE FUTURE OF TECHNOLOGY GOVERNANCE: ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING
+Total number of reports are : 0
+Report Count for filer : SHAPING THE FUTURE OF TECHNOLOGY GOVERNANCE: BLOCKCHAIN AND DIGITAL ASSETS
+Total number of reports are : 0
+Report Count for filer : SHAPING THE FUTURE OF TECHNOLOGY GOVERNANCE: DATA POLICY
+Total number of reports are : 0
+Report Count for filer : SHAPING THE FUTURE OF TECHNOLOGY GOVERNANCE: IOT, ROBOTICS AND SMART CITIES
+Total number of reports are : 1
+Report Count for filer : SHAPING THE FUTURE OF THE NEW ECONOMY AND SOCIETY
+Total number of reports are : 5
+Report Count for filer : SHAPING THE FUTURE OF TRADE AND GLOBAL ECONOMIC INTERDEPENDENCE
+Total number of reports are : 0
+--------------------- -------- --------------------------
